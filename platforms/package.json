@@ -1,0 +1,23 @@
+{
+  "name": "nodejsajs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Pokimonka/NodeJsAjs#readme",
+  "bugs": {
+    "url": "https://github.com/Pokimonka/NodeJsAjs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pokimonka/NodeJsAjs.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@pokimonka/ajs": "^1.0.0"
+  }
+}
